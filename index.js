@@ -3,7 +3,7 @@ let info = {
   firstName: 'Thembalakhe',
   lastName: 'Malindi',
   address: 'Three Rivers, Vereeniging, 1929',
-  contact: '+27 68 482 1001',
+  contact: '+27 67 032 9360',
   bio: {
       intro: 'In the realm of frontend development, I am proficient in HTML5, CSS3, and VueJs, with additional expertise in Python programming. My skills extend to graphic design.',
       middle: 'Lets connect and explore opportunities to collaborate in creating innovative solutions that bridge the gap between mechanical engineering and cutting-edge technologies',
